@@ -3,6 +3,7 @@
 datasets: 
 grouped_data_w_text_features: this csv file contains the modified dataset with additional time and user_id total tweetcount text features
 ungrouped_data: this csv file is an unmodified dataset with cluster_ids
+https://drive.google.com/drive/folders/17w4EKx05hWMLC2opzLCT09bJrEMS8OqR?usp=drive_link
 
 electra_class_grouped: this notebook runs an electra classification model on the modified data 
 electra_class_ungrouped: this notebook runs the same electra model but on data that is not modified
