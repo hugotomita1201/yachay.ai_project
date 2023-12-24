@@ -1,4 +1,9 @@
-# yachay.ai_project
+# Yachay.ai Geolocation Prediction from Tweets
+
+This was a project developed during an externship at yachay.ai. This project aims to predict the geolocation of tweets with deeplearning techniques. 
+
+Project Overview
+_________________________________________
 
 datasets: 
 grouped_data_w_text_features: this csv file contains the modified dataset with additional time and user_id total tweetcount text features
