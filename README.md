@@ -11,8 +11,11 @@ This was a project developed during an externship at yachay.ai. This project aim
 ![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/a6149a39-6b9d-4181-b362-d7e4ccf4b49e)
 
 ## Results
-![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/9b3e7be0-91c8-4fd8-a5db-a6f834667fb8)
 
+Various models were tested on different sets of data. The dataset labeled text + user_id + timestamp had the text data, a label encoded user_id, and an hourly timestamp.
+
+The highest performing model was the electra-small-discrimminator on tweet data only with an accuracy of 36% and a mean haversine distance of 1363 km
+![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/9b3e7be0-91c8-4fd8-a5db-a6f834667fb8)
 
 
 datasets: 
