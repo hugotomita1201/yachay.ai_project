@@ -11,7 +11,8 @@ This was a project developed during an externship at yachay.ai. This project aim
 ![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/a6149a39-6b9d-4181-b362-d7e4ccf4b49e)
 
 ## Results
-![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/f63d26a3-09f2-4cfb-8fe0-4caa391b9e11)
+![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/9b3e7be0-91c8-4fd8-a5db-a6f834667fb8)
+
 
 
 datasets: 
