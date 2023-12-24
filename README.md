@@ -2,8 +2,17 @@
 
 This was a project developed during an externship at yachay.ai. This project aims to predict the geolocation of tweets with deeplearning techniques. 
 
-Project Overview
-_________________________________________
+## Project Overview
+- Preprocssed and performed EDA on dataset containing 500000 tweets from North America
+- Developed and trained multiple Bert and electra regression and classificaton models to geolocate the tweet data
+- The regression model uses haversine distance in km as its main loss metric while the classification model uses accuracy 
+
+- The classification model divides North America into 10 regions using K-means. See image below.
+![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/a6149a39-6b9d-4181-b362-d7e4ccf4b49e)
+
+## Results
+![image](https://github.com/hugotomita1201/yachay.ai_project/assets/70402339/f63d26a3-09f2-4cfb-8fe0-4caa391b9e11)
+
 
 datasets: 
 grouped_data_w_text_features: this csv file contains the modified dataset with additional time and user_id total tweetcount text features
