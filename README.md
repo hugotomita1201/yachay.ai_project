@@ -1,5 +1,8 @@
 # Yachay.ai Geolocation Prediction from Tweets
 
+
+##Purpose
+
 This was a project developed during an externship at yachay.ai. This project aims to predict the geolocation of tweets with deeplearning techniques. 
 
 ## Project Overview
